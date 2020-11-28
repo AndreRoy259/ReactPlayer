@@ -72,6 +72,26 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "this again..",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/07/f3dda653e5ff94d787639ef56cb8e922d321a04f-1024x1024.jpg",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8953",
+      artist: "SwuM, quickly, quickly",
+      color: ["#E7DFC7", "#BE4424"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "this again..",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2020/07/f3dda653e5ff94d787639ef56cb8e922d321a04f-1024x1024.jpg",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=8953",
+      artist: "SwuM, quickly, quickly",
+      color: ["#E7DFC7", "#BE4424"],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
